@@ -1,3 +1,7 @@
 h2, h3, h4{
     color: green;
 }
+/* 0211-增加h1為紅色 */
+h1{
+    color:red;
+}
